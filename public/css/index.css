@@ -1,0 +1,7 @@
+.row{
+    flex-wrap: nowrap
+}
+
+main {
+    text-align: center;
+}
